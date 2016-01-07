@@ -1,0 +1,7 @@
+# ConnectFour_Game
+/* Please use the the final version to test the program, that is: Version_FinalEdition/Version_test;
+Once you enter the above directory, please find the file named "try.pro", then open it by clicking,(please make sure you have installed the Qt Creator version 5.4), then you will open the program in the qt.
+Please directly click the Run button to build the game, once you run it , the Enter UI of the game will emerge immediately.
+For more detail, please read description file: description_of_connect_four** Brief Introduction of the game: There is two modes of the game: PVP means human player versus human player; AI means human player versus AI, please notice the player will always go first in this mode.
+After choose the game mode, you then will enter the Game UI. The left side of Game UI is the game board; once you click the mouse in certain column of the board, there will immediately be a piece. The right side of Game UI is the dashboard, including three buttons and one text label. The button named "Replay" is used to refresh the board; The button named "Credits" is used to show our team members; The button named "Display Counter" is used to hide or display the text label; The text label is used to display the number of connected pieces in the board right now.
+Hope you will enjoy the game! Best wishes from Baking Soda team. */
