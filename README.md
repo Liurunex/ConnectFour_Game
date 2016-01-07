@@ -1,4 +1,4 @@
-# Description to Connect Four
+# Connect Four
 1.  Rules Of The Game
 Connect four is played by two players on a 6(rows) * 7(columns) chessboard. Each turn, one player drop one unique color disc inside the chessboard to occupy one position of the chessboard. The one who set 4 discs on a line no matter horizontally, vertically or diagonally firstly, win.
        	
